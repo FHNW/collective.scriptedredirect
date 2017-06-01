@@ -1,8 +1,7 @@
 *.py[co]
 *.mo
 *.egg*
-*.EGG
-*.EGG-INFO
+*.EGG*
 build
 /bin
 downloads/*
